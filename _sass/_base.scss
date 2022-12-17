@@ -183,7 +183,6 @@ pre {
   margin-left: auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
-  padding-bottom: 50px; // added
   @extend %clearfix;
 
   @include media-query($on-laptop) {
