@@ -12,7 +12,7 @@ remote_theme: eliottvincent/bay
 
 header:
   pages:
-    - name: About
+    - name: Home
       slug: /
     - name: Projects
       slug: /projects
